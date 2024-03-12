@@ -41,9 +41,9 @@ This Python script provides functionality for encrypting and decrypting text usi
 
 ## Developer Information
 
-- This Python script is developed and maintained by [Developer Name].
-- For inquiries, bug reports, or contributions, please contact [email address].
+- This Python script is developed and maintained by LeatherFire.
+- For inquiries, bug reports, or contributions, please contact sadacan1907@gmail.com.
 
 ## License
 
-This project is licensed under the [License Type] license. See the `LICENSE` file for details.
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
