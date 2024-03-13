@@ -70,7 +70,6 @@ def decrypt_brute(language):
                 print("")
                 #print("Decrypted: " + encrypted_word, "with key: " + str(j+1))
             print("Decrypting is done !!!")
-        break
 
 def encrypt(language):
     while True:
